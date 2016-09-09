@@ -1,1 +1,1 @@
-# server
+SERVER - A lightweight tcp/udp server framework.
